@@ -6,12 +6,10 @@ This repository showcases a diverse collection of Python projects that I've pass
 
 ## Table of Contents
 
-1. [Project 1: Project Name 1](#project-1-project-name-1)
-   - [Description](#description)
-   - [Features](#features)
-   - [Usage](#usage)
-   - [Folder: `project_name_1`](project_name_1/README.md)
-   
+1. [Algorithms in Python](#Algorithms)
+   - [Description]:
+     This project folder contains a collection of Python files implementing various algorithms. The algorithms cover a range of topics including sorting, searching, graph algorithms, and more. Each file is self-contained, clearly demonstrating the algorithm's functionality.
+
 2. [Project 2: Project Name 2](#project-2-project-name-2)
    - [Description](#description)
    - [Features](#features)
